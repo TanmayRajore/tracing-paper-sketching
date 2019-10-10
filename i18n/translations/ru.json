@@ -1,14 +1,12 @@
 {
-  "tracing_paper": "Калька",
-  "tracing_paper_help": "Скопируйте изображение с экрана на физическую бумагу. Найдите изображение в качестве шаблона.Вращайте, уменьшайте или масштабируйте, чтобы найти идеальное выравнивание.
-Заблокируйте экран, положите бумагу на дисплей и начните трассировку.",
-  "privacy_policy": "Privacy Policy",
-  "licenses_credits": "Licenses, Credits",
-  "pick_a_image": "PICK AN IMAGE",
-  "camera": "CAMERA",
-  "toast_screen_locked": "Screen locked",
-  "toast_screen_unlocked": "Screen unlocked",
-  "toast_image_loaded": "Image loaded",
-  "toast_no_access_to_camera": "No access to camera"
+  "tracing_paper": "Kal'ka",
+  "tracing_paper_help": "Skopiruyte izobrazheniye s ekrana na fizicheskuyu bumagu. Naydite izobrazheniye v kachestve shablona. Povorot,umen'shit' ili uvelichit', chtoby nayti ideal'noye vyravnivaniye. Zablokiruyte ekran, polozhite bumagu na displey i nachnite trassirovku.",
+  "privacy_policy": "politika konfidentsial'nosti",
+  "licenses_credits": "Litsenzii, Kredity",
+  "pick_a_image": "Vybrat' izobrazheniye",
+  "camera": "KAMERY",
+  "toast_screen_locked": "Ekran zablokirovan",
+  "toast_screen_unlocked": "Ekran razblokirovan",
+  "toast_image_loaded": "Izobrazheniye zagruzheno",
+  "toast_no_access_to_camera": "Net dostupa k kamere"
 }
-© 2019 GitHub, Inc.
